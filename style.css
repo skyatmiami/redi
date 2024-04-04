@@ -1,5 +1,11 @@
+@font-face {
+    font-family: Open Sans;
+    src: url('OpenSans-Regular.ttf');
+}
+
 .body {
     width: 70%;
+    font-family: Open Sans;
 }
 
 ul#menu {
