@@ -1,14 +1,3 @@
-@font-face {
-    font-family: Open Sans;
-    src: url('OpenSans-Regular.ttf');
-}
-
-body {
-    margin: 0 auto;
-    width: 60%;
-    font-family: Open Sans;
-}
-
 ul#menu {
     padding-left: 0;
 }
