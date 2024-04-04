@@ -1,3 +1,7 @@
+ul#menu li {
+    display: inline;
+}
+
 .copyright {
     font-size: 0.9rem;
 }
