@@ -4,6 +4,7 @@ ul#menu {
 
 ul#menu li {
     display: inline;
+    padding-right: 1rem;
 }
 
 .copyright {
