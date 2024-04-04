@@ -1,3 +1,7 @@
+ul#menu {
+    padding-left: 0;
+}
+
 ul#menu li {
     display: inline;
 }
